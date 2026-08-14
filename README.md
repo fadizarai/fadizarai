@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,11,20&text=Thready.json&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20in%20the%20making%20%7C%20Building%20for%20MENA%20%26%20beyond&descAlignY=58&descSize=18" />
+# Thready.json
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Software+Architecture+%E2%86%92+AI+Engineering;RAG+%7C+Multi-Agent+Systems+%7C+Edge+AI;Currently+juggling+5+projects+in+parallel+%F0%9F%94%A5" alt="Typing SVG" />
 
@@ -107,8 +107,8 @@ B2B recommendation system for a multi-company phone distributor — feature engi
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=fadizarai&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadizarai&layout=compact&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=fadizarai&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=1800" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadizarai&layout=compact&hide_border=true&cache_seconds=1800" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=fadizarai&hide_border=true" />
 
