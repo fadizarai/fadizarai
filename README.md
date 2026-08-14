@@ -27,52 +27,28 @@ currently: practicing competitive programming daily, sharpening core reasoning
 
 ### 🛠️ Tech Stack
 
-**Languages & Paradigms**
+**Languages**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/OOP-4B32C3?style=flat-square&logo=codefactor&logoColor=white" />
-<img src="https://img.shields.io/badge/Functional%20Programming-1abc9c?style=flat-square&logo=haskell&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=py,java,cpp,cs,html,css,js,ts,php&theme=dark&perline=9" />
 
 **Backend & Frameworks**
 
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/vLLM-FF6B6B?style=flat-square&logo=vllm&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=dotnet,spring,symfony,fastapi&theme=dark&perline=4" />
 
 **AI / ML / Deep Learning**
 
-<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/XGBoost-EC0000?style=flat-square&logo=xgboost&logoColor=white" />
-<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Edge%20AI-00A19A?style=flat-square&logo=raspberrypi&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark&perline=4" />
 
-**Embedded & Robotics**
+**Embedded, Robotics & Edge**
 
-<img src="https://img.shields.io/badge/MicroPython-2B2728?style=flat-square&logo=micropython&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" />
-<img src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-<img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-<img src="https://img.shields.io/badge/OAK--D%20Lite-2496ED?style=flat-square&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,ros,linux&theme=dark&perline=4" />
 
-**OS & Environment**
+**OS & Tools**
 
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
-<img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white" />
-<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=ubuntu,windows,git,github&theme=dark&perline=4" />
+
+**Also working with** *(no official icon yet)*
+`OOP` `Functional Programming` `XGBoost` `MicroPython` `NVIDIA Jetson` `CUDA` `OAK-D Lite` `LangGraph` `vLLM` `Fedora` `VirtualBox`
 
 <br>
 
