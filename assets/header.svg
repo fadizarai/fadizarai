@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 130" width="700" height="130">
+  <defs>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2E9EF7">
+        <animate attributeName="stop-color" values="#2E9EF7;#7CF5FF;#2E9EF7" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#7CF5FF">
+        <animate attributeName="stop-color" values="#7CF5FF;#2E9EF7;#7CF5FF" dur="3s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <!-- pixel grid backdrop, faint -->
+  <g opacity="0.12">
+    <rect x="0" y="0" width="700" height="130" fill="none"/>
+  </g>
+
+  <text x="350" y="70" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="52" font-weight="bold" fill="url(#glow)" letter-spacing="4">
+    THREADY
+    <animate attributeName="opacity" values="0.85;1;0.85" dur="2.4s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="350" y="100" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="14" fill="#4a6a8a" letter-spacing="3">
+    &lt; SOFTWARE ARCHITECTURE // AI ENGINEERING &gt;
+  </text>
+
+  <!-- blinking cursor -->
+  <rect x="475" y="55" width="10" height="26">
+    <animate attributeName="fill" values="#7CF5FF;transparent;#7CF5FF" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
