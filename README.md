@@ -1,8 +1,6 @@
 <div align="center">
 
-# Thready.json
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Software+Architecture+%E2%86%92+AI+Engineering;RAG+%7C+Multi-Agent+Systems+%7C+Edge+AI;Currently+juggling+5+projects+in+parallel+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://raw.githubusercontent.com/fadizarai/fadizarai/main/assets/header.svg" alt="Thready" />
 
 <br>
 
@@ -25,30 +23,25 @@ currently: practicing competitive programming daily, sharpening core reasoning
 
 <br>
 
+<div align="center">
+
+### 🪪 ID Card
+
+<img src="https://raw.githubusercontent.com/fadizarai/fadizarai/main/assets/cin-card.svg" alt="Dev Identity Card" width="650"/>
+
+</div>
+
+<br>
+
 ### 🛠️ Tech Stack
 
-**Languages**
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,java,cpp,cs,html,css,js,ts,php&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=py,java,cpp,cs,html,css,js,ts,php,dotnet,spring,symfony,fastapi,pytorch,tensorflow,sklearn,opencv,arduino,raspberrypi,ros,linux,ubuntu,windows,git,github&theme=dark&perline=12" />
 
-**Backend & Frameworks**
+**Also working with** *(no official icon yet)* — `OOP` `Functional Programming` `XGBoost` `MicroPython` `NVIDIA Jetson` `CUDA` `OAK-D Lite` `LangGraph` `vLLM` `Fedora` `VirtualBox`
 
-<img src="https://skillicons.dev/icons?i=dotnet,spring,symfony,fastapi&theme=dark&perline=4" />
-
-**AI / ML / Deep Learning**
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark&perline=4" />
-
-**Embedded, Robotics & Edge**
-
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,ros,linux&theme=dark&perline=4" />
-
-**OS & Tools**
-
-<img src="https://skillicons.dev/icons?i=ubuntu,windows,git,github&theme=dark&perline=4" />
-
-**Also working with** *(no official icon yet)*
-`OOP` `Functional Programming` `XGBoost` `MicroPython` `NVIDIA Jetson` `CUDA` `OAK-D Lite` `LangGraph` `vLLM` `Fedora` `VirtualBox`
+</div>
 
 <br>
 
